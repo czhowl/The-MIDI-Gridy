@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/system_config/default/system_interrupt.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/settings.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/settings.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/seq.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/ble.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/game.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/The%20MIDI%20Gridy.X/nbproject/Makefile-default.mk</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/midi.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/main.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/seq.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/game.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/system_config/default/framework/driver/adc/src/drv_adc_static.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/ui.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/looping.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/UART/firmware/src/midi.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/visual.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/system_config/default/system_init.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/looping.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/ui.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/The%20MIDI%20Gridy.X/nbproject/Makefile-impl.mk</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/lcd.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/lcd.h</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/system_config/default/framework/driver/usart/src/drv_usart_mapping.c</file>
+            <file>file:/Users/howlchen/microchip/harmony/v1_10/apps/ledtest/firmware/src/ble.c</file>
+        </group>
+    </open-files>
+</project-private>
